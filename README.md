@@ -50,9 +50,11 @@ Computer Science student at **University of Michigan** with a passion for buildi
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=rehanshah17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehanshah17&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanshah17&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 
 </div>
 
@@ -65,18 +67,40 @@ Simulates CAEN environment remotely to save SSH hassle and conserve autograder s
 
 ---
 
-## Let's Connect!
-
-I'm always interested in collaborating on interesting projects or discussing tech. Feel free to reach out!
-
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/rehanshah17?label=Follow&style=social)](https://github.com/rehanshah17)
-
-</div>
-
----
-
-<div align="center">
-  <i>"Talk is cheap. Show me the code." – Linus Torvalds</i>
-</div>
+```
+                                                      rehanshah@Rehan-MacbookAir-3.local
+                                                      ----------------------------------
+                                                      󰣇 OS      macOS 26.2 25C56 arm64
+                      -#@#+ .-*+.                     󰍹 Host    Mac15,12
+                    .-**=-#.*#+*+#+:                  󰘚 Kernel  25.2.0
+                  .=*+#++**%#%=*#*##+                 󰔟 Uptime  5 days, 3 hours, 11 mins
+                  :#+#+*@***#*###=#=*=                󰆍 Shell   zsh 5.9
+                 .****@+@.@@@+#*%*%#+*.               󰆍 Term    tmux
+                 .=##%:-+-...-=+=**###.               󰻠 CPU     Apple M3
+                  .#@.:=@@*-*@#*--%*=-                󰍛 GPU     Apple M3
+                  .*@.:-*+-.+*#+-:@*.                 󰧑 Memory  2724MiB / 16384MiB
+                    ........::..:--                   󰋊 Disk (/)  11G / 228G (31%)
+                     .=#==*##*+=+.                    
+                      .--=+***=:.                     
+                      .-....:--+.                     
+                       +#+===+++                      
+                      .--=====--.=                    
+                  ..=@..#=-::+#@ %-                   
+                ::+*+@.::.%##@.:.@#=:.                
+        .  .-+=*#+*++@ :.. @ ..:.@***%=:..            
+       -+++++*#*++++*%-..@@%@@..*@****+***=...        
+      .********++++***@.*:+.*:-%.@*********+**=.      
+      =***+*++*+****++@ .=#*@.:.=%****#********:      
+     .#**#*#****+****+%. @#*@.:.@#************#+      
+    :=********+**+***+#@ @+*%@..@***+*******#**#.     
+    +*****#****+******+% #..*@ .@**=#*********#*.     
+    @*****#************#@#***@ @#**#***#***#****.     
+   .*******************+*****@ %**#*************.     
+   .#**+***#***************++###**********#*****.     
+   -*+*#***#*************#***#***#********#*****-     
+  .-**#****#****************#+**#********#******+     
+  .*#******#**************#+=**#*********#******#.    
+  .*******=+=***********#*#***#**********#******#.    
+  .*#*****- -************###+#***********#******+     
+   .......   ....................................     
+```
