@@ -50,11 +50,9 @@ Computer Science student at **University of Michigan** with a passion for buildi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rehanshah17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehanshah17&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanshah17&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 
 </div>
 
