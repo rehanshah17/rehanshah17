@@ -16,9 +16,9 @@
 Computer Science student at **University of Michigan** with a passion for building impactful technology.
 
 ### 🔭 Interests:
-- 🌐 **Web Development** - Building responsive, modern web apps
-- 🔓 **Open Source Development** - Contributing to the community
-- 🏠 **Home Labbing** - Currently DeGoogle-ing my infrastructure
+- **Web Development** - Building responsive, modern web apps
+- **Open Source Development** - Contributing to the community
+- **Home Labbing** - Currently DeGoogle-ing my infrastructure
 
 ---
 
@@ -73,10 +73,4 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 [![GitHub followers](https://img.shields.io/github/followers/rehanshah17?label=Follow&style=social)](https://github.com/rehanshah17)
 
-</div>
-
----
-
-<div align="center">
-  <i>⚡ "Talk is cheap. Show me the code." – Linus Torvalds</i>
 </div>
