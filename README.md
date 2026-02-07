@@ -1,4 +1,4 @@
-# Hi there, I'm Rehan Shah 👋
+# Hi there, I'm Rehan Shah
 
 <div align="center">
   
@@ -11,18 +11,18 @@
 
 ---
 
-## 🎓 About Me
+## About Me
 
 Computer Science student at **University of Michigan** with a passion for building impactful technology.
 
-### 🔭 Interests:
+### Interests:
 - **Web Development** - Building responsive, modern web apps
 - **Open Source Development** - Contributing to the community
 - **Home Labbing** - Currently DeGoogle-ing my infrastructure
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -46,26 +46,28 @@ Computer Science student at **University of Michigan** with a passion for buildi
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rehanshah17&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehanshah17&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=rehanshah17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rehanshah17&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanshah17&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [subcheck](https://github.com/rehanshah17/subcheck)
 Simulates CAEN environment remotely to save SSH hassle and conserve autograder submits.
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 I'm always interested in collaborating on interesting projects or discussing tech. Feel free to reach out!
 
@@ -73,4 +75,10 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 [![GitHub followers](https://img.shields.io/github/followers/rehanshah17?label=Follow&style=social)](https://github.com/rehanshah17)
 
+</div>
+
+---
+
+<div align="center">
+  <i>"Talk is cheap. Show me the code." – Linus Torvalds</i>
 </div>
