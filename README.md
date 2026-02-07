@@ -1,11 +1,11 @@
-# Hi there, I'm Rehan Shah👋
+# Hi there, I'm Rehan Shah 👋
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-your.email%40example.com-red?style=flat-square&logo=gmail)](mailto:rehanfshah@gmail.com)
-[![Website](https://img.shields.io/badge/Website-yourwebsite.dev-blue?style=flat-square&logo=google-chrome)](https://ri.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourprofile-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/rehanshah17)
-[![Location](https://img.shields.io/badge/Location-City%2C%20State-green?style=flat-square&logo=google-maps)]([https://maps.google.com](https://www.google.com/maps/place/Ann+Arbor,+MI/data=!4m2!3m1!1s0x883cb00dd4431f33:0xdb09f94686c8b5e2?sa=X&ved=1t:242&ictx=111))
+[![Email](https://img.shields.io/badge/Email-rehanfshah%40gmail.com-red?style=flat-square&logo=gmail)](mailto:rehanfshah@gmail.com)
+[![Website](https://img.shields.io/badge/Website-ri.dev-blue?style=flat-square&logo=google-chrome)](https://ri.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rehanshah17-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rehanshah17)
+[![Location](https://img.shields.io/badge/Location-Ann%20Arbor%2C%20MI-green?style=flat-square&logo=google-maps)](https://www.google.com/maps/place/Ann+Arbor,+MI/)
 
 </div>
 
@@ -15,20 +15,20 @@
 
 Computer Science student at **University of Michigan** with a passion for building impactful technology.
 
-### Interests:
-- **Web Development** - Building responsive, modern web apps
-- **Open Source Developement** - Data analysis and research
-- **Home Labbing** - Currently DeGoogle-ing
+### 🔭 Interests:
+- 🌐 **Web Development** - Building responsive, modern web apps
+- 🔓 **Open Source Development** - Contributing to the community
+- 🏠 **Home Labbing** - Currently DeGoogle-ing my infrastructure
+
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -46,7 +46,7 @@ Computer Science student at **University of Michigan** with a passion for buildi
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   
@@ -58,14 +58,14 @@ Computer Science student at **University of Michigan** with a passion for buildi
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### [subcheck](https://github.com/rehanshah17/subcheck)
-Simulates CAEN enviornment remotely to save ssh hassle and save autograder submits. 
+Simulates CAEN environment remotely to save SSH hassle and conserve autograder submits.
 
 ---
 
-## Let's Connect!
+## 📫 Let's Connect!
 
 I'm always interested in collaborating on interesting projects or discussing tech. Feel free to reach out!
 
@@ -73,4 +73,10 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 [![GitHub followers](https://img.shields.io/github/followers/rehanshah17?label=Follow&style=social)](https://github.com/rehanshah17)
 
+</div>
+
+---
+
+<div align="center">
+  <i>⚡ "Talk is cheap. Show me the code." – Linus Torvalds</i>
 </div>
