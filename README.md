@@ -9,8 +9,6 @@
 
 </div>
 
----
-
 ## About Me
 
 Computer Science student at **University of Michigan** with a passion for building impactful technology.
@@ -43,16 +41,6 @@ Computer Science student at **University of Michigan** with a passion for buildi
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rehanshah17&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-</div>
 
 ---
 
